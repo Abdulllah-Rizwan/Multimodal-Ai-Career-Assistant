@@ -60,7 +60,7 @@ This project demonstrates how to integrate multiple modalities (text, images, au
    - The assistant will respond by suggesting career options and, if applicable, provide additional details such as average university costs. It will also generate images and audio output as part of the interaction.
 
 ## Code Structure
-- **app.py:** Main application file containing the logic for setting up the chat interface, processing tool calls, streaming responses, and integrating image/audio functionalities.
+- **app.ipynb:** Main application file containing the logic for setting up the chat interface, processing tool calls, streaming responses, and integrating image/audio functionalities.
 - **Functions:**
   - `get_avg_university_cost`: Retrieves average tuition fees for a given university.
   - `handle_tool_calls`: Processes tool call data received from OpenAI and returns relevant information.
