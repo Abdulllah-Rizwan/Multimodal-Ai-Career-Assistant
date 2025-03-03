@@ -1,4 +1,4 @@
-## Long Description
+## About the project
 This project is a comprehensive AI-based career assistant designed to help users explore potential career options based on their interests, goals, and aspirations. The assistant provides career advice in a friendly and concise manner and leverages external tools to enhance the interaction. For example, after suggesting suitable career paths, it can retrieve the average cost of studying at a specified university and even generate a visual representation of a student at that institution using DALL-E 3.
 
 Key features include:
@@ -31,8 +31,8 @@ This project demonstrates how to integrate multiple modalities (text, images, au
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/multimodal-ai-career-assistant.git
-   cd multimodal-ai-career-assistant
+   git clone https://github.com/Abdulllah-Rizwan/Multimodal-Ai-Career-Assistant.git
+   cd Multimodal-Ai-Career-Assistant
    ```
 2. **Create a Virtual Environment:**
    ```bash
